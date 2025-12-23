@@ -1,0 +1,104 @@
+
+Spine card.png
+size: 545,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Apple
+  rotate: false
+  xy: 2, 145
+  size: 118, 136
+  orig: 122, 140
+  offset: 2, 2
+  index: -1
+Back
+  rotate: true
+  xy: 2, 405
+  size: 185, 196
+  orig: 188, 200
+  offset: 1, 2
+  index: -1
+Front
+  rotate: true
+  xy: 200, 407
+  size: 183, 196
+  orig: 185, 199
+  offset: 1, 1
+  index: -1
+brela
+  rotate: true
+  xy: 398, 451
+  size: 139, 145
+  orig: 141, 148
+  offset: 1, 1
+  index: -1
+cat
+  rotate: true
+  xy: 122, 146
+  size: 135, 146
+  orig: 137, 148
+  offset: 1, 1
+  index: -1
+cloud
+  rotate: true
+  xy: 137, 3
+  size: 140, 116
+  orig: 142, 118
+  offset: 1, 1
+  index: -1
+fox
+  rotate: false
+  xy: 398, 296
+  size: 142, 153
+  orig: 144, 156
+  offset: 1, 2
+  index: -1
+heart
+  rotate: true
+  xy: 2, 284
+  size: 119, 112
+  orig: 122, 115
+  offset: 1, 2
+  index: -1
+leave
+  rotate: true
+  xy: 383, 28
+  size: 115, 146
+  orig: 117, 149
+  offset: 1, 1
+  index: -1
+mshrom
+  rotate: false
+  xy: 255, 6
+  size: 126, 137
+  orig: 129, 141
+  offset: 1, 2
+  index: -1
+star
+  rotate: true
+  xy: 2, 2
+  size: 141, 133
+  orig: 144, 135
+  offset: 1, 1
+  index: -1
+sun
+  rotate: false
+  xy: 360, 145
+  size: 154, 149
+  orig: 156, 151
+  offset: 1, 1
+  index: -1
+tree
+  rotate: true
+  xy: 200, 283
+  size: 122, 158
+  orig: 125, 160
+  offset: 1, 1
+  index: -1
+water
+  rotate: false
+  xy: 270, 154
+  size: 87, 127
+  orig: 89, 129
+  offset: 1, 1
+  index: -1
